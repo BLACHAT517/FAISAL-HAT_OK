@@ -8,17 +8,6 @@ def psb(z):
         time.sleep(0.03)
  
 os.system('clear')
-print
- 
-print
- 
-print("""    ______    _           _      
-            |  ____|  (_)         | |
-            | |__ __ _ _ ___  __ _| |
-            |  __/ _` | / __|/ _` | |
-            | | | (_| | \__ \ (_| | |
-            |_|  \__,_|_|___/\__,_|_|
-
 print("\033[0;91mThis Tool's Free By FAISAL SHAHZADi")
 
 psb('\x1b[1;92mBANGLADESH 6 DIGIT CLONING START PLEASE WAIT .....')
